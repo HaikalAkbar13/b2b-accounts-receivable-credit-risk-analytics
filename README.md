@@ -244,4 +244,4 @@ CALCULATE(
 *Specialized in Corporate Finance, Credit Risk Analytics & Working Capital Optimization*  
 * [LinkedIn Profile](https://linkedin.com/in/haikalakbar13)  
 * [GitHub Repository](https://github.com/HaikalAkbar13)  
-* Email: haikalakbar.biz@gmail.com
+* Email: haikalakbar10k@gmail.com
