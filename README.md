@@ -242,6 +242,6 @@ CALCULATE(
 **Muh Haikal Akbar, S.E.**  
 *Data & Business Intelligence Analyst*  
 *Specialized in Corporate Finance, Credit Risk Analytics & Working Capital Optimization*  
-* [LinkedIn Profile](https://linkedin.com)  
-* [GitHub Repository](https://github.com)  
+* [LinkedIn Profile](https://linkedin.com/in/haikalakbar13)  
+* [GitHub Repository](https://github.com/HaikalAkbar13)  
 * Email: haikalakbar.biz@gmail.com
